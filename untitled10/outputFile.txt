@@ -1,0 +1,4 @@
+Q:
+Am I a default computer?
+Yes, I am a default when the input file is not found.
+No, I should not be the default tree, something went wrong.
